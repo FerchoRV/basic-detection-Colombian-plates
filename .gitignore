@@ -1,0 +1,6 @@
+_env/
+env_time_real/
+runs/
+dataset_yolo/
+data.yaml
+yolov8n.pt
