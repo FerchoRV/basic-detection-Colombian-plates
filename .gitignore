@@ -3,3 +3,4 @@ env_time_real/
 runs/
 dataset_yolo/
 yolov8n.pt
+proyecto_cascos/dataset_yolo_cascos/

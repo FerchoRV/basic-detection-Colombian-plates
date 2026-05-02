@@ -1,0 +1,6 @@
+path: D:\Proyectos\Dteccion de placas colombianas\proyecto_cascos\dataset_yolo_cascos  # Ruta raíz del dataset
+train: D:\Proyectos\Dteccion de placas colombianas\proyecto_cascos\dataset_yolo_cascos\train\images    # Ruta relativa a imágenes de entrenamiento
+val: D:\Proyectos\Dteccion de placas colombianas\proyecto_cascos\dataset_yolo_cascos\val\images        # Ruta relativa a imágenes de validación
+
+names:
+  0: helmet
