@@ -1,0 +1,6 @@
+path: ../dataset_yolo  # Ruta raíz del dataset
+train: train/images    # Ruta relativa a imágenes de entrenamiento
+val: val/images        # Ruta relativa a imágenes de validación
+
+names:
+  0: placa
