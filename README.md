@@ -1,4 +1,4 @@
-# license plate detection with YOLO V8
+# License plate detection with YOLO V8
 
 ## Data information
 
